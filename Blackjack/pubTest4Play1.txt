@@ -1,0 +1,13 @@
+Eight of HEARTS (FaceUp)
+Queen of SPADES (FaceUp)
+
+Seven of HEARTS (FaceDown)
+Five of HEARTS (FaceUp)
+
+*** Hit ***
+Eight of HEARTS (FaceUp)
+Queen of SPADES (FaceUp)
+Four of CLUBS (FaceUp)
+Player: BUST
+Dealer: LESS_THAN_21
+Game Status: DEALER_WON

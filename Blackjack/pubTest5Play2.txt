@@ -1,0 +1,19 @@
+Eight of HEARTS (FaceUp)
+Queen of SPADES (FaceUp)
+
+Seven of HEARTS (FaceDown)
+Five of HEARTS (FaceUp)
+
+*** Stand ***
+Player's Cards: 
+Eight of HEARTS (FaceUp)
+Queen of SPADES (FaceUp)
+Dealer's Cards: 
+Seven of HEARTS (FaceUp)
+Five of HEARTS (FaceUp)
+Four of CLUBS (FaceUp)
+Player: LESS_THAN_21
+Dealer: LESS_THAN_21
+Player's total(s): 18
+Dealer's total(s): 16
+Game Status: PLAYER_WON

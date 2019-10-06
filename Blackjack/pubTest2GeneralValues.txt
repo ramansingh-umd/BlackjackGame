@@ -1,0 +1,3 @@
+Number of Decks: 1
+Bet Amount: 20
+Account Amount: 300

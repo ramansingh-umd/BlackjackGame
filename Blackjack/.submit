@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project Proj1: BlackJack
+
+courseName=CMSC132
+semester=201708
+projectNumber=Proj1
+courseKey=c9d4e2fdaad32925
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2017
+submitURL=https://submit.cs.umd.edu:443/fall2017/eclipse/SubmitProjectViaEclipse
